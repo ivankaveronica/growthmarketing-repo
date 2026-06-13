@@ -1,0 +1,886 @@
+Expert: chris-savage
+Video URL: https://www.youtube.com/watch?v=N2WHBKFl5tk
+Date collected: 2026-06-13
+============================================================
+
+Video is evolving really
+quickly right now. It's no longer just about
+making something good. It's about how you make
+it, where it shows up, and how you know if
+it's actually working. So instead of guessing, we
+went straight to the source. We surveyed nearly video
+professionals for our twenty twenty six
+State of Video Report. And today, we're walking through
+what we found with some of Wistia's finest number crunchers
+and content producers, Sam Balter and Meg Delisandro. We're breaking down why
+more teams are investing in distribution, how AI is
+changing who makes video, and how fast it gets made,
+and why engagement, not views, is becoming the new
+measure of success. If you're new here, this
+is Talking Too Loud. It's a show for people
+building brands, products, and content that
+actually stand out, where we try to unpack what's
+really working right now and what is just noise. Welcome, Sam. Welcome,
+Meg. Good to see you too. Great to be here.
+Thanks for having me. Longtime listener.
+Happy to be here. Oh, you shouldn't have. So we're here to talk about video, an episode about video. We just did our annual
+state of video live event. We released our annual report. There is a ton changing
+with video right now. A ton. And it it is getting harder
+to keep up with what is changing. So I know everyone
+wants to know, like, what are we seeing in this data? Okay. I'm just jumping right in. I'm just going back. Gonna jump right in. So So I think, like, there's
+things that are, like, year over year
+trends we always see. More plays on videos,
+more video creation, more demand from other people. I think one of the things that we
+those are pretty common trends. I think one of the biggest
+things that I'd say is a big kinda leap from last year
+is basically just how much in house video
+teams are growing. Yeah. Not and not just
+people are growing, hiring video producers, but
+when we ask people like, who's responsible for making
+videos at your company? People who are not
+video producers, that number jumped the
+largest about this year. So we're seeing that the
+average marketer is taking on a lot more responsibility
+in video production, and more companies are hiring,
+like, expert video talent. How much did that number change? So when we asked,
+it went from, like, thirty six percent to
+fifty six percent sign. So that's, like, a pretty sizable jump
+for just that group that's that's that is only for the group that is
+not a dedicated video producer. So, like, that's a huge
+year over year jump for us. And I know, like, people
+can watch the state of video full, event back, right,
+if they want more details. But can you talk about
+a little bit, like, why we believe this is? Like, why are more people doing
+this? How are they doing this? I mean, this
+tremendously huge jump. Yeah. I'd say for the like, in terms of why people
+are sort of doing this, one of the big trends
+is obviously AI. Like, AI is what is accelerating
+a trend that was already happening before. And I think it's a huge jump in basically
+your capabilities of doing things. An average person can now edit
+a video like you edit a Google Doc. Your average person could
+get backgrounds or visuals or music just by typing things in. So somebody with no video
+skills whatsoever is now pretty capable
+of doing some, like, lower level production work that
+they just weren't able to do before. So one, you have, like, a
+capability increase, and two, you look at
+LinkedIn, more video. You look at, any kind
+of platform, more video. People are putting more videos
+on their websites as well. So it's like you have
+both sides of it, an increase in capability so
+you could produce more and an increase in demand. This this stat
+really surprised me. And, Meg, I I kinda wanna
+hear your take on this. But like you have the report
+that says, like, in house teams are growing
+right up alongside Disney's massive layoffs. Right? And basically saying, forget about
+the people who can do the thing. Let's make it all robots. Yeah. I think there's actually a
+really good segment in State of the Bay where we talk about
+the need for an in house team. And that even though AI is
+coming in and helping teams do more, there when we look at
+how AI is actually trending, it's actually sort of leveling out
+compared to the last few years. It's kind of becoming
+more mainstream. And so even though people wanna
+take the easy fix and just say, like, throw AI at it, you still really need that
+in house team to develop that taste, that strategy. And I feel like we have a
+really good video you can send to your boss, PSA
+commercial, you might say, that says exactly why you need that
+in house team to make those decisions. Yeah. I think it's very much seems
+to me like this concept that's been thrown around of, like, Jevan's paradox of the demand
+for the when these things get really easy, like, the demand for them actually goes
+up way more than you would expect. So in this case, like, you know, you have someone on your
+team who their their title, their role, their experience
+was never to make videos. Now what we're seeing
+is that they are, but then they're
+proving the value. And then suddenly it's
+like, well, actually, now that we're in value, we want these really
+to be on brand. We need them to
+lots more places. We're gonna still use AI to
+help us do this, but, like, maybe we need dedicated people thinking
+about this and working on this. And that is just it's like
+this is one of those, like, really weird things that can
+happen in a moment like this. And I I think what surprised me
+was that the level of shift in one Like like, that is a
+tremendous shift in one year stuff. And did Disney blow
+it? I just wanna know. Well, I think that that's like, I I've I'm not sure, like, the dynamics except
+that I know that, like, it's way harder to get
+people to theaters today. Right? And, like, there Disney is
+competing not just with, like, a small number of movie studios. Like, they're
+competing with Netflix. They're competing with YouTube.
+They're competing with TikTok. And so they're under
+threat in a different way. I I think if they get rid of
+all these people who have this amazing taste and, like, their careers have been
+making creative decisions, that's probably not
+great for them long term. But those people are gonna end
+up they might end up in really surprising places. That's where that's what might be
+very interesting here is, like, you have people who come from
+media directly into these other worlds, where it's like, we're all trying to make
+our stuff better, like, we have the ability to do
+that with AI in a way that we couldn't possibly do before. Do you need to
+hire some tastemakers right there? I think, like, it does
+sort of remind me of, like, when I worked at HubSpot, I feel like we've hired a lot
+of people who are former media journalists and stuff like that. And a lot of that was because
+newspapers were losing an enormous amount of money. Yeah. So a lot of those really,
+really talented producers, writers, things like that
+flooded from journalism and text into the world of tech. And I think, like, you'll probably see something
+similar with Disney people. Like, there'll be a lot of
+people who will move over into, like, tech world because
+they'll have a set of video skills, producing skills that
+just weren't that weren't really needed necessarily in
+tech before and are just gonna be a lot more valuable now
+because it's like video is just so much more core
+for businesses. Alright. So we've talked a
+lot about, like, this shift with having many more
+people in house making videos. What are some of the other big shifts
+that we've seen in this year's report? I think another big shift
+that we're seeing is just how success is quantified. I feel like years ago
+is all about views. Views was everything. You could get a video that had
+a million views or a thousand views, whatever, and it would
+have little to no comments, and that was still seen
+as a really big success. Where now I feel like people
+are really locked in on that social engagement or the
+actual comments, the likes, the reactions, the
+shares, things like that. And you can actually have a
+video that gets, you know, a handful of really
+thoughtful comments, and that'll actually be so much
+more successful than a video that has a bunch of views and
+a bunch of bot comments that just say, like, fire emoji
+because, like, what is that? You know? So I think they had a stat in
+the report where, actually, social engagement has jumped
+to the top of the list for in terms of what people are
+quantifying as success for video. And so that was something that
+really stood out to me because I feel like I definitely
+feel really guilty of being discouraged when I see a video
+doesn't get a lot of views. Even if I'm getting a lot of
+really thoughtful comments, I'm having great discussions, I'm even getting
+more connections. It's easy to get really
+bogged down and, oh, this didn't get x
+amount of views. And especially when you're
+reporting up to someone, you're trying to be
+like, this thing worked. I promise. Like, look. But it's actually interesting to
+see that shift in people's perspective of what is success. Yeah. Yeah. I feel like
+that's also extending out. Like, this is gonna have a
+larger effect for how LLMs are starting to pick up things. Like, we know, like, a
+couple things have happened. We know this. One, LinkedIn this year has moved
+up to the number one video channel for b to b marketers. It was previously YouTube. Now it is LinkedIn. They say that's their best
+channel for distributing video. Which is wild, by the way. Which is wild. That's a huge wild. Crazy shift. Yeah. Because it's like
+just a few years ago, it's like you're still mostly
+thinking about, like, that as, like, online resume. Now we're basically, okay. We're
+in a lot more video. We're sharing
+thought leadership. But you combine that with, like, LLMs really frequently citing
+LinkedIn as a top source. You, like, put those two pieces
+together and you realize, like, okay. Great. Having a video that might not
+get the most of views but is showing your expertise and
+driving large comments, if you wanna get lots of
+comments, watch engagement, video will likely beat text. If you wanna have
+something that's, like, really narrowed it
+on a specific topic, video is gonna be a
+great way to do that. And so I just feel
+like with that, like, focus on engagement, you're just seeing this larger
+shift where it's gonna be like, I really wanna get
+engagement around narrow topics that I am
+actually an expert on. Whereas, like, instead of trying to pop
+off on whatever is the trending topic of the day, like, I think a lot of people can
+kind of lower their feelings of, like, needing to do
+that of, like, oh my god. There's a trend. I need
+to do this trend as well. I need to comment in it. It's like you can actually
+just stay in your lane, build your expertise,
+and then, like, as LLMs are picking that up, that'll be really
+valuable to you. Are you guys seeing that,
+like, in your own feeds? Are you seeing, like, way
+more video in LinkedIn? I feel like I'm seeing that
+way more even than, like, at the beginning of the year. This was, it's something
+it popped up during, like, the state of video live
+chat where we were, like, LinkedIn is number one,
+and one person was, like, I don't see any
+videos on LinkedIn. And then everybody else
+was like, I want your out. Like, how do you not see videos? What do you mean
+you don't see like, everyone on there was
+like, we all see videos. So I think for the at
+least for me, it is, like, forty percent more
+videos at least. I think I've also seen
+that types of videos on LinkedIn drastically changed
+in the last year. I think a year ago, you were seeing the same types
+of podcast clips with the same types of captions,
+and it was, like, kinda like Sam was just saying, copying that formula that
+worked and just doing it again and again and just trying
+to flood the feed with that. And I think everyone got a
+little bit burnt out on that. I know I sure did. And so I feel like I'm
+seeing a lot less of that, and I'm starting to see
+more creative uses of video. I love seeing liquid death
+in my LinkedIn feed because everything they make is
+so delightfully unhinged. And I just hope that more
+people start creating more exciting things on LinkedIn. The other thing I would say is
+that speaking back to our point on everyone's making video. Now it's not just video teams
+making video on LinkedIn or CEOs or founders or
+whoever, podcast people, it's actually you'll see, like, an engineer put a product demo of
+them walking through something. God bless. Actually sit through it
+because I'm like, oh, that's actually really
+interesting to hear from the person who made the thing, what they found most interesting
+or how they built it. And I think that's gonna be
+interesting to see how more of that everyone making video thing
+starts integrating into the feed. So I'm excited for it. Yeah. I think that's when
+we zoom out on, like, where AI is adding
+the most productivity, it's actually on the
+software engineering side. And so if you're following
+Wistia, we're shipping, like, at an utterly insane pace, And that creates this other
+challenge that everyone's going to have, which we've
+been talking about, which is how do you
+get the attention? How do you tell people
+about the stuff? And, one of the things that I
+think it seems like it's coalescing at this that might be the
+answer is actually, no, you're gonna have more people
+talking who are the people who are making the things, actually
+making the videos themselves, making them for their
+very specific niche, which before the algorithm and
+stuff wouldn't help wouldn't couldn't get just that super
+specific thing to the right person. Now it actually is going to. And so we're seeing a little
+bit of the solution start to show up, which is like, yeah, this democratization of of
+video production is gonna be critical for how people get the
+messages out there about the stuff that they're building
+and what they're doing, the behind the scenes of why
+it works the way that it does. I also think it's just
+interesting looking at videos like a very much in the
+apex medium of, like, you could take video
+and turn it into audio. You could take video
+and put it into clips. You can take it, and, you know, something long that you don't
+think most people are gonna watch, like, pull it down
+and pull the insights, write a newsletter. Like, if you have that
+system, that engine built, it is much easier to match the
+content you're making to all the different places where
+people might consume it. But if you're starting the other
+direction, it's, I think, harder. Yeah. I feel like
+that is just for us. Our own workflow is just a
+lot faster for certain things. Like, our even something like we had our state of
+video live yesterday. Within a number of hours, we had a recap blog post done. And I think, like,
+that shift is just how quickly we were able to take
+something that's video and turn it into something else is huge. And just to, like, paint this
+perspective, if there's, like, people who are, not actually
+aware of how this process works, it's usually the person
+who is doing the webinar is not always the person who's
+writing the blog post. So the person who's writing the
+blog post actually has to watch the webinar, which isn't always the
+case at a lot of companies. Like they are just like, Oh
+yeah, I'll catch it later. So it's like the
+webinar will happen. The blogger will watch the
+webinar maybe like two or three hours afterwards, take a
+variety of notes about it, write a recap blog post at
+it, edit that blog post, and maybe get it out within
+like forty eight hours. Like, I'd say that's a pretty
+common trend for people. Now it's like the webinar, I took prerecorded things.
+I ran it through remix. I got a draft blog post. The live event happened, q and
+a added into it, edited once. It's, like, twelve
+hours, you know, or less than twelve hours. Whole thing is live. And so, like, that shift
+is just so much faster. And with video, it's like you weren't
+really able to bridge that gap as quickly. And I think that's just one
+thing you're seeing of, like, Savage, to your point of things
+breaking into into pieces. It's just way quicker to
+do it than it used to be. I feel like I'm of two mindsets
+when it comes to repurposing because obviously, like, I
+see the value in being able to turn a long form video
+into all these other pieces of content, like whether
+they're shorter videos or newsletters, or
+whatever have you. But then I feel like there's a
+case to be made that like every platform is a different sport, and you kind of need to sort of fine tune the content
+to the platform that you are posting on. So I guess, like, what what
+do you think as people are repurposing, like, what are
+some guardrails that they should be thinking about? Is it, like, knowing what kind of
+content you're gonna get out of it from the jump and like
+that's enough or I'll let Meg take
+that one first. Having having written our video repurposing cookbook,
+now at at Wistia, I am very passionate about
+making and repurposing things with a purpose. I think it's so purpose. I like it. You know? I think it's so easy to again,
+I think the maybe a year ago, it was just, alright. We have a podcast. We're gonna get as many
+short clips as humanly possible and slap some captions on it. So we have months
+and years of content. But if you're not thinking
+about what the context of that clip is broken out
+from the full piece, people are just gonna see that
+in their feed and just be like, what is going on? What is this? And so you might be getting
+more mileage out of something, but you're literally going
+nowhere because people aren't sitting there with
+you in that context, and you're not thinking about
+the context in which they're seeing it, especially
+between different platforms. Like, I'm in a totally different
+headspace when I'm on TikTok than when I'm on LinkedIn. And I I personally hate
+having my time wasted, and so I hate when
+I watch something, and it feels like a
+giant waste of time. Like, I could watch
+ten million cat videos. That would be a way better use
+of my time than half the stuff I see on LinkedIn. And so I I'm just really
+passionate about thinking about repurposing from the jump so
+that way you're not wasting anyone's time,
+including your own. Because, again, there's no point in
+making a bunch of clips if they're not gonna get washed and not
+send people anywhere. So that's kinda my my soapbox,
+which I'll step down from now. I like it. You sure do. What's, what's something like
+going through the report? There's so much data in there. We've talked about a few
+of the surprising insights. Are there any other things that
+really surprise you from this you wanna make sure
+that people don't miss? For me, it's like I
+webinars are so big for us, and it's like something
+I'm so interested in. And I think there's a couple
+things that stick out. One is just like people are not
+appreciating just how engaged a webinar audience is. Like, even at a benchmark
+level, we have stats of, like, the engagement rate for
+something of a thirty, of, like, a thirty minute webinar. It's gonna be, like,
+seventy percent. So, like, people
+who are there Yeah. It's like if you put
+any long form video, no long form video
+will get that level. Like, if you put it on
+YouTube, it is like, if you can get over
+fifty, incredible. You are ten out like, Webinars are just regularly
+doing, like, seventy, eighty percent in terms of,
+like, their engagement rate. Wistia tracks another to let
+metric below that, which is, like, focused attendee rate. So that's, are you actually clicked into
+the window not doing something else? That's only like a
+little bit below, that's like sixty
+percent on average. And so like, you just
+do not get a more engaged audience than
+you do on a webinar. And I think like, if you just look at a webinar
+as a video that is playing, that people are watching,
+like it's kind of unmatched in terms of that level
+of engagement. And so, like, that to me is just
+one of the most surprising things. The other thing
+we track is, like, just with winning the world
+of webinars is how I'm very obsessed as our content person
+with the shelf life of stuff. And, generally, webinars very
+much feel like when they're over, they're over. We saw that thirty percent
+of the webinars hosted are still getting views, like,
+three months afterwards. You go look at webinars, like,
+you go down nine months later, kinda drops to about,
+like, ten percent, little less than ten percent. Wistia, we're, like, solidly
+have webinars that are getting views, like, over
+twelve months later. And so there's just so much
+room with webinars to turn them into these assets that
+just keep getting views. And I think it's crazy to
+imagine this format where you have super high engagement
+the moment it happens and long shelf life, And it's
+relatively low cost to produce. And so, like, that combination
+to me was just like, I know people know it, but I
+think seeing the numbers, like, really kind of drilled and
+brought that point home. Yeah. I think we should I think we
+should go deeper here in a like, excuse me for getting
+too meta, I think, but, like, I think I'm just gonna I'm
+gonna go all the way there, which is like Always. Which is I think, like, if you have not seen
+what we're doing like, we call them a webinar because
+that's the colloquialism. Right? Like, they're
+so what we call them. Like, if you were to go and
+look at the state of video live, it doesn't
+feel like a webinar. To me, it feels like a show. And we've made this
+conscious choice of, like, we're gonna make the
+production of the live event so remarkably great that, like, not only are we're we're to take
+advantage of that attention. Right? Like, we know that
+already the attention is high. So we want you to come
+in and feel like, wow, I'm seeing something
+really special. Just talk about what goes into
+this, I guess, what I'm saying. Like, what goes into
+these events for us now? So let's see. A couple of years ago, we moved to totally or
+prerecorded first thirty minutes, and then the last
+thirty minutes is live q and a. So it's a combination of a
+prerecorded show and a live q and a. The prerecorded thing is based
+on for our state of video live, we do it like a news thing. So we have a variety
+of different segments. We play we have all people from
+the office come in and, like, play different characters
+and things like that. And so, basically, you end
+up with this twenty five, thirty minute totally
+wrapped pre like, show, and then we kick it over live. And the thing is we invest so
+much time in this and, like, Chris Lavigne was a huge, like, proponent of this direction
+because he's like, if we can make a thirty minute
+live show, there's no dead air. Every moment is
+useful. Everything is engaging. There's not these, like, drop
+offs where people feel like, oh, this isn't relevant to me. It's so fast and
+entertaining and useful. And it also, like, Meg could
+talk a lot more about this, but, like, as we're
+not giving the webinar, as I'm not talking
+while it's happening, we're way more engaged in chat. We're more involved with, like,
+giving relevant resources, and we're able to do, like, a lot more to make the
+live experience better. But, I mean, maybe, Meg, you
+could talk a bit about, like, the lie our run of show
+and just how, like, detailed that becomes. Yeah. So besides just planning ahead
+and making sure all those segments can be repurposed later
+on as we can, again, get more juice for the
+squeeze, we always create what's called, like, a run of show document,
+which basically says, at this point in the show,
+we're gonna drop this link. And at this point in the show,
+we're gonna run this poll. Or at this point of the show, we're gonna have
+these resources ready, or we're gonna think
+ahead and say, hey. Like, if this happens,
+like, what are we gonna say? If someone asks, is
+this prerecorded? What what are we gonna say? And it just makes it so you
+can actually be very present in the moment, and so you're not
+just sitting there sweating, just hoping that things go well. And it also makes it so that
+when Sam and Taylor come into the live q and a, they're
+fresh, they're ready, They actually have the
+bandwidth and, like, mind space to see the chat and
+see what questions are coming up as they're coming in live. So they can actually kind
+of start prepping their answers even before they're sitting
+in the live q and a, which just again makes that
+content just so much more valuable in the moment. Yeah. So I guess my question
+is knowing all this about webinars, and the
+fact that they are so engaging, especially
+when they're like a show, what what should video teams
+be thinking about, like, going forward with
+regard to webinars? Is it is it, like,
+make this, like, really high end production? Is it, like, start off with
+maybe trying one segment? I shouldn't be feeding
+you any answers. I am leading the witness. Yeah. Say it again. What should video teams be thinking
+about with regard to webinars? I think for most companies,
+and I could be wrong, video teams aren't really
+working on webinars. Like, a lot of video teams are
+not part of the webinar process. The webinar process usually
+sits with somebody within demand gen or in another area. They're not tied to the
+video team who's making, educational content
+or they're making ads. Like, that is a lot of the time
+what your video team is doing and your webinar person is a
+totally separate person or it's just one really
+overworked marketer. Right? But, like, I think what the easy thing
+for video teams to do is to start bringing in some prerecorded
+content into live. Like, we on our town
+hall, it was a mix. There was live. There was
+prerecorded. There was live. There was prerecorded, and
+it oscillated between those. And I think like a lot of
+video teams just need to get involved in the process of like creating
+videos that can be played or used during the webinar. And I think one of the
+things that's really nice about that is once you get a
+video person in, they will likely up level the
+webinar just because they can't not up level the webinar. They can't not think about how
+you're sitting in that room. They can't not adjust your
+lighting to make you look better. They can't not fix your audio. Like if you bring like just the
+main thing video teams need to do is actually just get involved
+in the webinar process at all. And then once they're
+involved a little bit, it is going to steadily
+up level that content. And I think, like, when you think about the
+webinar person and repurposing, that webinar person is may
+not be responsible for ads, for social content,
+for things like that. And so, like, anything you can do to
+thread webinars more throughout the rest of your marketing org, the
+better off you're going to be. And everybody's gonna just
+generally benefit from that. Well said, sir. Well said. Yeah. I think the other thing that I
+think a lot about is that the hardest part about a webinar
+is getting people in the room, and one of the first things
+people see about your webinar is the title. And so even though it's not
+necessarily with the video team itself, I think having, like, that content minded person who
+might be writing ad copy or might be thinking through the
+blog post that comes after, really thinking about does this
+title just sound like a sales pitch? Because who realistically wants to sit
+through a half an hour sales pitch? Like, I know I don't. So I think putting that value
+upfront and making sure that it's so clear why they're
+spending time with you and why that live time would be valuable
+with them is really important. I think a lot of teams
+drop the ball there, and I definitely feel guilty of wanting to lean more
+towards the the sales pitch because I think as marketers,
+we're we're always selling. We're always
+thinking of, alright. This webinar is supposed to
+get x amount of dollars or this product or that product. But really putting yourself in
+the viewer's shoes is something that I think video teams
+are really, really good at. And so I think that's just
+another benefit of bringing in video folks into
+the webinar process. Yeah. I think a lot of the
+prerecorded stuff, like, that's where they
+can be like, okay. We need to make something
+about our product. It needs to be, like,
+actually entertaining, and but we know we're
+gonna have attention. So let's let's, like, take those constraints
+and go make something. Because that that's what I
+keep thinking about is, like, it's getting harder to
+differentiate yourselves. Like, SEO doesn't work
+the way that it used to. Like, it's it's
+harder to get traffic. It's harder to get attention. So if you have places where
+you can actually get it, how do you make
+the most out of it? And I think that's
+where it's like, look. Look at your look at the stuff
+around you and see if there's opportunities to, like it could be as simple
+as the right pre rolls in before it's going or even at the
+end of the event, I think. Like, that stuff actually
+makes a difference. Like, people are waiting anyway. You might as well give them something
+fun and interesting and, oh, they happen to learn about
+some other product you have. Like, that'll be okay if
+the if the event delivers. Hundred percent. And, actually, I'm gonna
+say a win that was huge, the state of video live. Instead normally every video team should help
+people produce some pre roll waiting thing,
+like, time or clock. Like, this is so easy
+for video people. But, like, what we ended up doing
+was we just had we stole movie trivia before the webinar started. So we just had trivia
+from state of video, and it was like it
+instantly got chat going. It got it it's It's my
+love language, dude. People in there. It was so fun. And it was like, people were
+engaged. People were chatting. It's like, it
+really I, you know, I love knowing what location
+you're calling in from. I think it's fun. But, like, a little bit more
+than that is nice as, like, the pre show. Yeah. When in
+doubt, movie trivia. It Well, for webinar chats especially, I think
+people I mean, I'm a big proponent of
+adding GIFs to webinar chat. Like, my emotions cannot be
+contained by emojis alone, and so I love adding GIFs
+because it just gives people something to react to. And sometimes I I'm
+I feel this way too. I don't have anything smart
+enough to say in the webinar chat. So I'm like, I just wanna laugh
+react, or I wanna heart react, or I wanna answer, like,
+which of these is a berry? Is it a banana? Is it a
+raspberry? Like, what is it? Like, I think getting the chat warmed
+up with those really low stakes questions giving them something
+to react to other than just having to get out their
+location is a great way to get people engaged
+right from the jump. Yeah. I I think also about the
+the people who are there who are choosing to spend their
+time at this event. Like, if you have fifty
+people at a webinar, I think sometimes video
+teams are like, well, I want thousands of
+views on my thing. Like, is it worth it, to make something
+that's for fifty people? But if you if you
+were to imagine, like, fifty people walked into the
+front door of your office and you had to have them
+something good to show them, you would definitely
+invest in that. And, like, that's effectively,
+like, kinda what's happening. And it's just unfortunately,
+because it's online, like, you're looking at that right
+next to looking at, like, a social clip, right
+next to looking at, like, a thought leadership piece, right next to looking
+at this organic traffic. And I think that that's that's
+the part that can sometimes be confusing here in terms
+of how much to invest. Because it's and the difference
+is if you know that people are gonna spend one hour
+actually paying attention, that is ridiculous. And so you have to
+make the most of it. I think it makes it I mean, we've seen so much success
+from making those clips, making the pace
+feel much faster. And, I mean, not to just,
+like, toot our horn, but people are literally
+in the comments being like, this the greatest webinar I've
+ever been to, which feels good, but they say it every time. And I think it's because, like, there's still so much
+opportunity there. Like, most people are
+not actually doing this, and therefore, like, you can be pretty
+differentiated by doing it. Just a little bit nicer. It's a lot better. Zooming out a little bit,
+I guess I'm curious, like, in previous years for SOV, for the report anyway, it felt
+like there was a lot more, like, fear around creation or, like, the barrier. What are you shaking your head? V. I'm just laughing
+at s o v. S o v. S o v? I just ate a video. It's like, I wanna
+do the dun dun, like, from law and order s v u. Yeah. Oh, that's funny. You really interrupted
+my flow statement. Yeah. SOV. No.
+That's what happens. You got me. I'm flowing. I was gonna say that
+in in past years, it seems like a big barrier
+to video was around, like, fear of creation. Like, I don't know what to do. And now it seems like more
+people are like, okay. I can kinda create the thing, but I wanna know if
+the thing is working. Do you do you have
+that sense in, like, video land these days? I feel like, actually, the most consistent barrier
+to people making video is just always resources and time. And I think as we talked
+earlier about the appetite for video being never ending and
+never you can never satiate it, it's just becoming harder and
+harder to feel like you're keeping up because that bar just
+keeps raising higher and higher. So I think because video
+has become so democratized, people are getting more
+comfortable being on video and just looking at how, you
+know, I think years ago, most video on your website or
+most video for marketing was a really polished, maybe
+explainer video on your home page, where now we're
+seeing, maybe, like, lower polished videos on
+social and, across, like, different emails and such. And I think that since the
+quality people don't expect super studio high quality video, it feels more approachable. So maybe that's kind of what
+you're saying where people don't feel like that's the
+biggest barrier anymore. It's actually just keeping up
+with the demand and trying to find enough resources to make
+enough video for everyone. Yeah. That was very eloquent. I think I realized the
+thing I was asking, and I didn't ask it well. Yeah. It's something totally
+different. Go ahead, Salveen. I think I was trying to say I
+think I was trying to say, like, what kind of
+coffee do you guys like? Oh my god. Stop. You're
+derailing everything, Savage. You're a monster. I'm I'm great. It's very good. I think I was trying to
+say My my apology, Sylvia. I'm sorry. You're punchy. You know what?
+That's what we're here for. We're keeping people
+engaged on their toes. Okay. If in previous years, like, a big barrier to video
+felt like comfort, like comfort being on camera,
+comfort making the thing, Feels like now the
+the sort of barrier is like, how do I know
+it's less about comfort. Like, they feel
+more comfortable. But how do you know if
+your video is working? I guess, like, that's the other part
+of this equation where I feel people are still, like, a
+little bit in the dark. I think it depends on your goal. Like, every video has such a
+different goal for what it's supposed to do, and that's
+such a vague answer. That's not a very,
+like, actionally, put this into action
+right now kind of answer. But that's what I my first
+thing that comes to my head is that that really depends on
+thinking ahead of what is this video supposed to do. I think you used to
+just make one video, slap it across every channel, and just pray that
+something would come of it. I think now people are
+a lot more intentional, and so I hope that maybe
+thinking whether it's the channel it's on, the type of
+audience when it's meeting them, or connecting it to the other
+parts of the organization that might help people understand
+better if it's working or not. I think a video fails when
+you're trying to tie it to every goal under the sun, and you're trying to make it do
+everything, everywhere, all the time. It's kind of
+there's, that saying, I I don't know. I'm totally gonna butcher
+this, but it's like, if you're saying everything, you're not saying anything at
+all or something like that. Yeah. That's kind of what
+comes to my brain. Yeah. I feel like for me, in terms
+of how you're measuring it, I think there was this really
+large trend in performance, like the rise of, like, performance marketing and
+everything is tracked and everything is
+benchmarks to all of it. One thing I've been
+noticing is, like, as more executives end up on LinkedIn posting videos, this is just my own two cents, but I feel like they're
+referring to their success by the comments. Like like, it's more likely
+that you're gonna see, like, lots of exec be like, oh,
+these are great comments. I posted a video and I
+got really good comments, really great things. They like a few years ago, they wanted if I posted a video
+and went to like my leadership team and when I got great
+comments, they'd be like, oh, well, it's gotta be views. It didn't get many views,
+Sam. That was kind of a waste. But now that executives are
+starting to post more videos on their own, they're like, Oh,
+these comments are great. These things No, that's
+interesting. Yeah. Shift in the like, now that you have more
+executives making videos, more executives are measuring
+and understanding that the comments, the engagement, those types of things
+really matter because they're like, let's follow-up with that guy. See how he's doing, what
+she said. Let's find her. Let's get a partnership going. Why are you killing
+me right now? Like and then all of a sudden,
+it's like and, you know, now if I'm talking about a
+video performance, it's like, oh, Sam, don't worry. We've got the right
+people in the room. That was not the conversation
+necessarily happening like a couple of years ago. And so I think like really it's
+like starting to shift from like, as more people, as more execs are taking on
+the role of thought leadership, they're starting to look more
+into the actual engagement and actual conversations. Are you trying to, like,
+blow up my spot over here? What are you doing? Look. I'm just saying you're not
+you're one you're one you're one executive who maybe
+has some similarities. I don't know. I don't
+know if it just happened. Yeah. Well, I mean You
+do that, Savage. Like, you'll post things,
+and that'd be like, these are great comments. Like, I'm just No. But I think it's I I'm
+just really laughing, like, thinking about this because I think
+it's so true what you're saying. And that, like, basically, it's so easy from the outside
+to complain and ask these, like, really high level
+numbers and wonder, like, why is it things not
+moving the needle. But then you're actually doing
+it yourself and you realize, oh, this is, like, this is one of those things that I
+really need to pay close attention to. And if I'm getting
+a lot of comments, it's it's such a small fraction
+of people who are going to comment and actually
+care enough. And then are the comments real
+is like the other you start looking at the details to get
+your full picture of, like, is this thing motivating attention
+and engage it the way that we want? Yeah. Like, I feel like you're looking
+at the details more now than you were than maybe looking
+at the top level numbers. Like, you might look at the
+top level numbers and be like, this video got a lot of views. I should look at what,
+like, people are saying. And I feel like now it might
+be starting to reverse where you're like, people are
+saying really good things. Is this video getting a lot
+of views? Is it expanding? Well, I think we're judging I think
+almost we're implicitly judging the different pieces
+now where it's like, if someone makes a
+video and it has, like, incredible comments on it, then you're and and you
+you basically can tell the content's great. Then it's like, well,
+if we know it's great, what should we be doing about
+the distribution of this thing? Where before, I think, like, people were often removed
+from the quality piece of it. So they're just looking at,
+like, the high level metrics. And I I wonder if part of it
+too is, like, this huge, like, AEO shift of, like, the
+alligator thing of, like, you're gonna get
+more impressions. Like, you people's
+impressions are going up, clicks are going down. Yep. Oh. So then it's alligator. So, like, your
+impressions are going up, your clicks are going
+down, but, like, is the quality of
+sign ups going up? And Then you so it's forcing us to get
+deeper to understand what's going on. And then, oh, the quality is going
+so then what do we need to do? Like, I think to myself, the companies that have the
+best products and the best brand and the best service are
+gonna do better in AI world because they can't fake it. So it actually simplifies
+what to focus on to a degree, which is like make your
+make your **** amazing. And then, like, if
+you can do that, yes, you're gonna have to do all
+the other right things to make people aware of it. But, like, you're not gonna take off if
+your stuff's not great because, like, the AI is gonna tell you people
+people hate this product for this reason or they hate
+the pricing for that reason. And I feel like this it's a similar
+thing happening with content. It's like your content's really on
+point and it's for the right audience. Eventually, the
+algorithm is so good, it gets to the right people. So it forces you to to
+zero in on the details. I just love that this paradigm
+shift is predicated on CEOs discovering comments. That's it. I think We've we've
+discovered comments. Well, I think it's also that,
+like I mean, I'm being honest. Yeah. But I think No. I don't think I think
+it is hugely CEOs, like, getting comments. Is a big part of it. I think it's I think it's but I
+think it's also that we've had, like look. There's tons of companies that had
+incredible SEO and ****** products. Yep. And they grew big businesses. Yep. And That's not the
+world we live in anymore. And that's shifting. Yeah. And so that's kinda what
+like, before, be like, just make more pages. Just do more stuff. And I'm like, no. It's
+not that simple. Right. And if you're someone who
+actually wants to make great stuff, it's gonna be better. It's like a more
+equal playing field, but it's very disruptive
+on the way in. And so I think when these
+kind of moments happen, it causes everyone to get into
+or should cause them to get into the details. I think that's very true. And I think, like, it seems like
+intentionality woah. I have something on my glasses. This is how Sylvia
+is without glasses. This is me without glasses.
+I actually am so blind. Savage, you're the only you're
+the only regular eyeglasses. That's Yeah. Come on. You wanna join
+the four eyes gang? I tried wearing blue eyeglasses, but I just couldn't do it. I'm so blind. Like, I'm scared. Because I shouldn't say that. Scared. You should
+have laser eyes. Cut that right out. No. This is this is the goal. This is gonna be the best clip
+of this whole thing? Nope. And so it's just
+like, I'm blind. And then all the
+comments are like, what happened to this person? Why do they look like this? Nope. It feels like being
+intentional is, like, very important these days,
+whether that's in your video strategy, in your, like, how
+you're showing up on social. And like before,
+obviously SEO you had to be intentional about
+the words you were choosing, but not necessarily the, like, the deeper things. It was, like, intentional for the
+robots but not for the humans. Yeah. You you get me, Meg. I know. I'm producer
+brain, I got you. You get me. Sorry. I don't know. I'm
+an enemy to cut you off. You didn't. I was I
+sort of cut myself off. So you're saying the sum of the
+glasses is staying in? Yeah. We've lost the plot. Okay. Last last question.
+What will the future hold? The future oh, okay.
+I got my future. I got my future answer. So, like, if this if this goes on
+social, like, please put, like, a large warning Sam doesn't
+actually know anything about sports. That is for sure gonna
+happen. I want you to know. Like, I don't I don't
+really know sports. That's the thumbnail. I don't know sports. But K. I'm, like, obsessed with, like
+when Brad Stevens took over coaching the Celtics, he talked about this change in the
+way the teams were, like, organized. Basically saying that, like, players had gotten so
+much better that the traditional roles no
+longer were, like, particularly useful. And so he came up with, like, a different system of
+basically saying you have bigs, they're big people. Handlers, they handle the ball. Wings and swings,
+they are, like, moving the ball around and
+shooting tons and tons of threes. The thing about this is, like, one of the things is it
+gave rise to what's called, like, positionless basketball. So everybody can play a little
+bit of everybody's role. Everybody has a lot larger
+of an overlap of skill sets, and things move around
+a lot more dynamically. And if you think about, like, the way teams are
+working today with, like because of things like AI, because marketers are just
+getting better at stuff, I think we're basically
+gonna drop down into, like, three roles. There are gonna be
+people who are producers. They are just going
+to be responsible for producing content no matter the
+format, whether it's in text, whether it's video,
+whether it's webinars, you will do that for your team. You are a producer. The next person I think
+that will exist will be coordinators. People who are, like, running campaigns and making sure
+that you have the right message in market
+at the right time, and they're gonna be making
+sure all the producers are, like, lined into,
+like, campaign formats. And then the last is
+just gonna be interfaces, like people who interface
+with other humans, interviews, events, doing things in
+person, partnerships. And I think like when we look
+at the marketing team of the future, I think it's
+going to be a lot more multidisciplinary. And I think what you're gonna
+see is a lot of companies start to move in this world where
+even for us at Wistia, last year, we had a
+big focus on guides. We really needed to
+build up our, like, guides and resources. Meg is on the team,
+producer working on guides, building out our guide library. The end of this year, we are building out
+our webinar library. Meg, the same produce per producer
+is shifting into a different focus. Right? Like, this is gonna be the thing
+that I think is gonna be the biggest change is like Okay, Meg,
+winging and swinging. Meg is winging and swinging. Like, but everybody, she can do all of the
+different capabilities. She's has skills and
+coordinators in other areas. So, like, to me, that's what we're gonna be
+seeing as the big future. You're gonna get marketing
+teams that are more dynamic. You're gonna get individuals
+that are more dynamic and do a wider range of things. And then you're going to have
+teams shift their goals as opposed to just saying
+like, every year, we have to gain more
+email addresses. And your goal every single year is
+to get more people into the database. Like, you'll pick larger and
+bigger goals and adjust your teams based on that. And I think like that is gonna
+be the thing you're gonna see a lot and it's gonna be really
+chaotic and it's gonna be really confusing for
+lots of teams and lots of individual people. And so like, I think
+there's gonna be a period of like with the Celtics where you
+were often watching them and they were just missing
+threes and doing terrible. And you're like, is
+this system working? Why did we commit to this? And then it clicks together
+and you have everybody working really, really cohesively. And I think, like, that
+is going to be the future. That's gonna be, like, the
+next two to three years. That's my prediction. Yeah. I like how
+complete that is. And I I I and I agree with you. I think it's also in
+a sense, basically, when you're, like, a tiny
+startup, everyone wears, like, many hats, and they have to. And then you we've scaled
+by specializing, and, like, the specialization is
+effectively going away. And we're gonna use tools
+to help us specialize, and we're gonna have generalists
+with different focuses. And I agree with you that I
+think it's gonna be pretty rocky at first because, like, everyone is gonna be able just
+like we were talking before, everyone can make videos. Like, everyone can
+make a website. Everyone can make an ad. Everyone's gonna have the
+data on how it's performing, and you're gonna have
+to, like, figure it out. But I think on the
+other side of it, it's it's gonna let us
+accomplish bigger things. Can you put this on
+stage for a second? What do you got? I don't know. Was like this. Wow. Amazing. This is
+what technology can do. Wow. We needed this, I mean. It bad. This is great. This is Sam Stevens. Yeah. That's my dream.
+That's my dream. This is your dream. Richard, there he is. You don't know much about
+sports, but here you are. I know. Celtics. Yeah. Mister, like, let me let me say I
+don't know them and then be like, the point guard, the handler. Yeah. I was so happy that metaphor
+didn't get any deeper into sports because you would
+have completely lost me. Yeah. But I think he
+brought it back home. Gotcha. You lay you
+landed that plane. You did, and I was impressed
+with your sports knowledge. It sounds like you know sports. Yeah. You really do. You sound like need the warning
+at the beginning so nobody asks follow-up questions. I don't really know that much. Perfect. For me, I feel like if
+I were to grab the video marketing magic
+eight ball, like, shake it really hard and
+sort of like a prediction, but also what I'm
+really hoping for, It would be if we're thinking
+about how social engagement is becoming more important and how we
+want to use more webinars and, like, that live engagement is so
+valuable and people are just so engaged during that time. I think more and more people
+are gonna start focusing in on more niche communities and
+niche, streaming events. Like, if you look at the
+broader video space, like, outside of business, outside
+of, like, SaaS or whatever, people love things like
+Twitch and YouTube streams, because it feels like you're
+hanging out with someone. It feels like you're
+you belong there, like, you're part of the event. And I know Wistia, there's,
+like, this idea that the word, like, webinar has this, like,
+corporate stink to it that, I feel like we at Wistia know that
+webinars don't need to be boring. But I think when people
+see the word webinar, sometimes they think, oh, I'm just gonna sit through
+someone's slide deck as they make no eye contact with
+anyone, and they just, like, slowly go through it. Like, why am I here? But I think at Wistia, we've tried to do as much as
+we can to make it a really fun, valuable experience where
+we're hosting variety shows, game shows, DJ hours. And I think and I hope that
+more people start to understand that a webinar is not just a
+slide deck and is not just a boring presentation that
+someone could easily get over email or get in a blog post. And so I just really hope
+that people start getting more creative with what they do with
+that live time because there's just so much opportunity there. And like we were
+talking about earlier, that attention is so valuable
+and so rare for any sort of marketing material. So I'm just looking forward to a
+lot of really cool unique things. And I also think the best thing
+about live is that you can't plan for everything, so there's
+gonna be stuff that messes up. And that actually kind of
+humanizes the people on both sides of the screen. And so even when the the
+producer in me is sweating profusely when something goes
+wrong or something's out of place, I always have to remind
+myself, like, you know what? We're just human. And now they know that
+even if this was partially prerecorded and live, like,
+we're just marketers. We're just humans just trying to
+do the same thing that you all are. So that's my hope. Yeah. I think that's Love that. Yeah. I love that too. And I I think that the
+stakes of being live are what people like. Right? Like, the chance that it might go
+wrong slightly and then has one react to that is often
+A little schadenfreude. Yes. A little, like,
+blooper reel. Yeah. It's a mix of both, like, wincing and, like,
+laughing with you. Yeah. Totally. And my prediction, you thought we were done. We are done. Nothing. Oh, Sylvie, what a joke. Hilarious. What a joke. Well look. It was so good to have you both
+here today going through State of Video, your predictions
+for the future, how AI is changing everything, what's what people should think
+about how they're using video, how video is being
+democratized, how to repurpose. We've we've covered
+a lot, so thank you. Where can people connect
+with you to learn more? You can always hit
+me up on LinkedIn. I like to chat to people.
+You could just email me. I use email still, s
+balter at wistia dot com. If you have any questions on
+things like this, I think Bold, Sam. That works well too. I I connect. I'm I'd love directly
+talking to people. So if anybody needs anything,
+just reach out to me. Yeah. And same here. You can catch me on
+LinkedIn, and email. I don't know if you'll
+able to spell it, but m Dell'Sondro
+at Wistia dot com. If not, it's probably somewhere. Just find me on LinkedIn. Nice. Awesome. Thank you both. Thank you. Thanks for having us. So quick recap from today.
+Everyone's making video now. The marketer, the
+engineer, the founder, everyone is in the mix. Distribution matters
+more than ever, which means you have to think
+about where your videos show up and how they get seen. And engagement is
+the metric to watch. Are people actually responding?
+Are they commenting? Are they taking action? If you can get those
+three things right, you're in a really good place. For anyone who wants to
+go deeper on Stata video, you can check out the live
+show and download the report on wistia dot com. And if you enjoyed this episode, make sure to like and subscribe
+to Talking Too Loud wherever you get your podcasts.

@@ -1,0 +1,527 @@
+Expert: gaetano-dinardi
+Video URL: https://www.youtube.com/watch?v=wmXperCHU18
+Date collected: 2026-06-13
+============================================================
+
+Hi, I am Gianluca Fiorelli and
+welcome back to The Search Session. Today we are going to talk with a fellow,
+consultant Italian, but American Italian. He was born in New York. he's living now in Miami. He define himself formally on LinkedIn
+as a growth advisor, and he one of the most experienced specialists in
+software as a service growth consultant. the person is Gaetano DiNardi. How are you doing? Ciao Gianluca, thank you for having me. I have to start by saying, you
+know, you are one of my SEO heroes that I looked up to for many years. me blush. Don't make me blush. Yes yes. I remember reading all your masterpiece
+articles on Moz and all these great pieces you wrote even all before the AI started. And I thank you so much for
+inviting me to your podcast. It's an honor, so thank you. So you're living in Miami? I think it's still hot there. Oh yes yes. It's hot and beautiful. Yes, Okay. So you are a growth advisor. Why don't you want to, well, I, I will
+ask you this after, but let's start with a classic question of The Search Session. How SEO is treating you lately? It's an awesome question. And I will say that it's been great. It's, it's a couple of aspects to it. One is that there's this new
+excitement, this new life that's been, I think injected into the SEO space. Of course, there's a lot of craziness
+and maybe in some cases misinformation. But I'm enjoying all the new and
+exciting ways that SEO is evolving. And then on the business side,
+you know, demand is high. In fact, I have all retained my
+clients from last year this year, and helping them transition through the
+SEO AI changes that are happening. And so for that reason , companies, they
+still wanna keep pressing the gas on SEO. They're not giving up on it despite
+maybe what some of the counter narrative is saying, but SEO is dead. And it's only about A-E-O-G-E-O. But overall, SEO has been exciting,
+changing fast, of course, but overall great and very positive. It's good to know. It's also reassuring to, hear
+for once very positive impression from, someone like you. 'cause usually it is bad Humor is
+usually very more constant thing. I think it, you may represent. Let's say a sort of change
+that I'm perceiving. Before, people were really nervous about
+the changes that we were experiencing but now I see people let's say the old
+guard, SEO, especially more within some of the younger generation, uh, somehow
+taking control of a nerve of a nerve and saying, okay, I mean we are maybe
+the most entitled to drive this kind of change and eventually to educate
+this kind of change to the clients. And I want to start in fact, with you,
+share with me a document where you are substantially putting on paper, the, tough
+question CEOs are asking about AI and SEO. Substantially these are the
+question I think that you really are receiving and that probably
+are very common to all of us. So, but which, question is the one that
+you constantly, constantly hear from your clients to the, from your also
+potential client where people out of the search industry that are contacting you. Yes. It's something you're also
+familiar with, Gianluca. It's really the question about traffic. So how do we know that SEO is still worth
+investing in if traffic is going down? In fact this sort of linear progression
+from classic SEO to revenue, so it's the classic CFO mindset where you
+have ranking for keyword position. Then based on that ranking
+position of that commercial intent keyword, you can estimate to
+some degree click through rate. From there, they expect click
+volumes to website traffic. And then for some type of conversion
+rate formula, you can sort of do the prediction or the math on, you know, if
+I rank here and I get this many clicks and we do CRO on the websites, you know,
+we can predict that this many leads coming in from the organic channel, but
+that linear progression is breaking. Because clicks are going way down. And so, that is the the biggest
+question that I am getting. How do we know if SEO's working, if
+traffic is going down, how should we think about investing in, in
+SEO if we're not gonna get the traffic on the back end of that? Yes, but I think that
+this wasn't something new. I think that is something that the
+eruption of Google Analytics 4 start to disrupt in the sense, if you
+remember in the old classic Google Analytics, we could eventually see
+the contribution of SEO of organic to conversion eventually finalize through
+another channel, like let's say paid. So someone first come to our website
+from organic, then after a few days return clicking on ads or from
+a referral or from social media. But a part of that first touch
+was organic, so there was somehow a contribution from organic. And I think that not having, in at least
+embedded world views of Google Analytics GA4, we don't have that kind of vision. So the attribution that we, we lost
+that kind of information, especially businesses lost that kind of information. So it's harder for them to understand
+that SEO organic, maybe it's traffic that converts, but is helping you
+with awareness so people return when they see you in other surfaces Which
+can be also a referral from Chat GPT and then convert. I think that is more a, a, a, a,
+a problem of how to measure stuff. And I think also that is something that
+we should understand, but probably the classic attribution model is disappearing. So it's somehow, it's, instance, when
+I was working on television, I mean, we were trusting Nielsen, you order to
+understand how many people were watching our, our channel instead of others. And I mean, when Nielsen was a focus
+group with interviews or with a machine in their houses that were recording. Change of a channel on the tv. And so, but I also see there is another
+classic question how many times are you asked to, how can I rank on Chat GPT? Oh, this is a nightmare question. Yeah. It, it comes up a lot. Even worse than that is the CEO
+searched for a thing we do on chat, GBT, and our brand was not associated
+with that thing, and therefore we did not get the recommendation. From Chad GPT after the CEO searched that. And so I'll regularly get those sorts
+of messages in Slack from say, like the head of marketing that you know now,
+the, the CEO's, you know, breathing, fire, done his or her neck because
+they searched for thing we do in Chat GPT and the brand was not recommended. And now I have to think about how
+to explain that you are missing the necessary co-occurrences on the web
+because your brand was known for this thing for a very long time. And now you want your brand to be
+known with a brand new thing, but you haven't done the foundational marketing
+work in order for that to happen. And so now I have to have those
+conversations, which I know you are like the grandma mastering
+when it comes to entity based SEO and semantic search and all that. So I'm spending more time talking
+about like brand entities now and missing co-occurrences. Which need to be a
+broader part of marketing. It's not something that SEO
+teams can solve on their own. So what do you think about that? Well, I think that this is something
+that, we are not innocent, I mean. The sense that for many, many years, we
+are a strange community because from one side, we are very proud and substantially
+thinks better organic and SEO is the king of all the digital marketing channels. One, maybe the king is email
+marketing if we want to be serious because it's the one that never dies. And and so with, from this proud
+position, many in our industry never really care about other channels. And so, so omnichannel is
+clearly,  the way to go Now. I mean, all. The marketers in different specialties
+must collaborate together in order to do the classic things that one
+plus one is not two, but three. And I think that this is also something
+somehow, as people in Spain are used to say, is a, a reality bath, you, are put in a bath with full, with
+reality and you wake up from your dreams. So, this is I think the real
+situation, the real wake up maybe that people are starting to have now. but then that's why I also urge the SEO
+community, especially when it comes to search in, for instance, LLMs To drive
+the conversation, to not make steal this opportunity to, to drive the conversation
+so that new invented gurus of AI search who never did anything before about search
+are explaining to us what we have to do. That's right. That's right. Yeah. The AI bros as, as you've been calling
+'em, which I, I find very funny. That is, but it's an accurate description. But, you know, for example, I
+have to collaborate more with PR teams now than I ever have before. and one example that happened recently
+A CEO was worried or concerned that a top competitor has a better AI
+association with their brand and their product, that they're more AI
+forward, that they're more innovative. And I had no way of figuring out
+how to prove or disprove that. But then I came up with this little hacky
+method and I, I would love to know if you think about it, Gianluca, but I basically
+took all the entities that were associated with each of the brand terms and then
+I had Claude go through a comparison of those entities associated with each brand. And I had to do an analysis of which
+brand had more AI entity salience. And it did a spectacular, spectacular job. Way better than I could
+have ever done manually. And based on that analysis that I did. I was able to bring real data to
+the conversation with PR and say, look, here's where this brand is,
+outshining us into AI conversation. And that was extremely valuable
+rather than just trying to, you know, maybe cherry pick stuff off
+the website or do it manually. And so, yeah, I, I kind of had some of
+that idea based on some of your writing actually, but yeah, would love to
+know what you think about that method. I think of it as really
+the, the way to go. I think that competitive analysis
+is really becoming a critical asset using as you do Claude,
+I use tend to use Gemini. But using model is not very the
+important Thing is the fact that you are supporting your, your work
+with the reasoning of of AI models. Yes. This also mean another thing that
+sometimes SEO did okay but very fast, really spending time with the client or
+with the boss is the SEO is in-house, to truly understand the business model of a
+client to truly understand business model of a industry where the client is acting. And so understanding, being able
+to individuate the priorities. Able to understand why the brand is
+using a given tone of voice and why the competitor use a different tone of voice
+and especially understanding and asking for a very detailed I never really liked
+it as term, but the buyer persona, not only the buyer persona, also the audience
+persona because when we think to, which is again, not really new but it's even
+more important now, the buyer persona are the people that we want to target for
+becoming our subscribers in the case of a software as a services for instance. But the oldest persona are the one that
+collaborating with digital PR we can contact with in order to have their links. their mention a blah, blah, blah. So to appear this kind of. Entity connection between AI
+and our services, for instance. So yes, it's the job that must be
+done before, because if not, you're substantially inventing stuff. That's right. And, and I'll be honest, I
+used to think this was fluff. When I first started doing SEO, I used
+to think, let me just do this on my own. Let me just pound, you know, backlinks
+on my own, through my network or through outreach and let me just build pages
+and let me just forget about all this. And I didn't really understand
+how important all this stuff was until later in my SEO career, when
+you're dealing with the higher level executives and stuff, you have to,
+you have to think way more strategic than just keywords and backlinks. And obviously we're seeing that today. But in this example that I told
+you about there were three things that the competitor did different
+than my client, why they were perceived as more AI innovate. Two of those reasons was their
+feature set, like you were saying. They have something called predictive
+analytics and predictive modeling. So I realized that because they have a
+distinct feature set with this concept of predictive, that automatically
+fits into the AI story beautifully. And they also did something genius. They have a branded AI product
+line, which my client does not have. So I was able to take those insights to
+that discussion and it really, I think, opened their eyes and probably this is
+stuff they already knew deep inside, but they needed, you know, someone like me
+to reinforce to ' But yeah, like I've matured a lot throughout my SEO career
+and understanding how to bring these sorts of insights to higher level conversations
+and how you collaborate with pr, for example, is an important part of the job. And especially now with you have to do it. And yes, and this also. Other types of collaboration between
+China, for instance, with the email marketing, because for instance, in
+email marketing, you can understand what kind of content usually, or
+what kind of newsletter for instance, having with the email statistic. The biggest open rate, the
+biggest feedback with any kind of leads or lead generation. Things that the newsletter can, have
+organized with paid search or paid social because with paid social especially, they
+are really strong on everything trends the word of mouth and how people really. Talk when are referring to your services. So it, it's really about creating this
+sort of very strong synergies with the other channels doing so we can offer
+a better informed SEO and AI search strategy and more effective tactic to
+achieve the purpose strategy but one of the purposes is obviously as you was
+saying, conversion or lead generation. I'm coming to, to a substack that has
+been written that you shared with me. And it's about question because
+we are living in strange days. Uh, one says one thing, and can prove it. One person says the opposite
+thing, and can prove it. Let's go to the big question, how much
+LLMs traffic convert because we know that traffic is, I mean, we always blame
+Google because the traffic is shrinking. Zero click a IO is stealing
+traffic, but chat, pt, the traffic is ridiculously very, very low. Aleyda Solis recently shared another study
+which was saying that the mo, which is fun because I think it was studied by Profound
+and it was saying that the biggest CTR for the most visible URL is a miserable 1%. So the traffic is surely small. But what about the conversion rate? What is your experience? Yes. For the context of B2B software
+the website conversion rate from chat gpt is very high. It's actually even higher than
+Google search or bing search or organic search as a channel. I have some theories on why that might be. Some of them are obvious,
+some of them are less obvious. I think the obvious one is that because
+chat GPT is so good at fulfilling the very specific intent and it can
+drive you directly to those pages that you wanna go to, after a lot of back
+and forth from the conversation, you are more likely to be more informed. You're gonna go right to a page,
+perhaps even deeper in the site than than the homepage, for example. And you may be able to convert easier. Because of how targeted it's I think
+maybe a less obvious insight is that Google search sends a lot of top
+of funnel that is not commercial intent, buying intent traffic. And so therefore it's going to
+skew the, the conversion rate in the opposite direction. So I don't think it's fair, first of
+all to just look at chat GPT conversion rate versus Google search conversion
+rate and say that Google conversion sucks because it's, it's different
+buyer types, different stages, different mindsets going to the website. So just doing that comparison
+off the bat wouldn't be fair. But I would wager that if you isolated
+Google search traffic to just the bottom of funnel pages and you compare that to
+chat GBT, you would probably be on par. So we, we can start there, John
+Luca, and see what you think. Yeah. Yes. I think that obviously when, it also
+depends on, on the type of industry, some types of industry tend to be a
+bigger weight on conversational queries, for instance so people can be honestly
+totally satisfied by the answer, but it's given by maybe LLM, for instance. Uh, recently I was work. I working with, uh. a travel website when I use Claude,
+in order to understand how Claude is shaping the answer for certain types of
+question, and this question can usually can be considered, okay, they are
+informational, but usually as the start of a potential journey, not just information. But Claude don't trigger the, the search
+part of Claude is just relying on models. And when you ask it to CLO
+are very candidly, why are you not linking to any search? Because says it's because
+this is common core knowledge. So I don't need to search
+for new fresh content. So I think that sometimes is also this
+the reason certain industry needs. A longer step of informational queries
+before eventually triggering the commercial part of the customer journey
+in the case of a SaaS, I think that there are two main reason one is cultural. I think that people searching for
+a software as a service usually are more aware of how things work, and
+so they tend to use maybe more an LLM to directly go to what they want. So they don't need to, to do tons of
+question in Google's classic queries in order to find eventually search results
+that can answer to their questions. So they go directly to an LLM,
+do a very verbal prompt and ask. And secondly, also this kind of buyer
+persona is when he started to do a search, already scouted website directly. And so it's going to an LLM in order
+the classic micro moment, which is, I want to buy, but I need help. Because he saw everything. He already saw everything, but he
+want to find somehow a judge able to tell him of all these things,
+which one is the best for me? So it is like going into a shop
+and asking to the clear, okay, I know all this pc, but which one is
+really the best   what I want to do. think this is why maybe in the SaaS
+niche, the conversion rate is bigger than Google search Bing search I think the personalization
+has a lot to do with it. Absolutely. Yes. There's another aspect that I would
+love to be your opinion on Gianluca. 'cause maybe in other industries this
+is not the case, but in SaaS, I, I believe very strongly this is the case. There is a dark SEO funnel. So they need these searchers also
+don't fully trust the LLMs just yet. And they often need to validate through
+Google what the LLMs are recommending and, and what they're telling them. I saw a great study from a
+company called Winter and it was a collaboration with Omniscient Digital. It's another services agency. And they, they found some great
+data through qualitative research. So they were asking people in their study. If an LLM recommends a brand that
+you're unfamiliar with, what do you do? And the overwhelming majority was, oh, we
+go to Google, we search the brand, we look at their reviews, we check out their site. And like, we'll manually
+check it that way. So I do think that the dark SEO funnel
+that's emerging particularly for B2B SaaS is a lot of like exploration
+and narrowing down through LLMs. But then when it's time to really fact
+check and probably even convert, they're still gonna go to Google and maybe Google
+is getting the attribution credit we can call it for when they are ready to buy. They did all the research through
+LLMs and other platforms, and then they just went to Google to convert. And so maybe as Rand said, you
+know, Google is like the pizza shop that's just getting the flyers
+for people who are already hungry. And you know, that there could be
+a, a good amount of that happening. So what, what do you think? Actually you are describing
+the messy middle. The messy middle, what it is. Before it was just considering Google. So moving from one SERP to another SERP,
+from one Google property to another Google property, the messy middle actually is
+place where a search can be done because we are talking about LLMs here, but in,
+for instance, in hospitality or travel, it can be TikTok, it can be Instagram. You see a reel on Instagram and about,
+I don't know, a wonderful restaurant on a terrace looking to Rome. Yeah. to the, to the, to the roof of Rome. And obviously you can, you can save
+it, you can trust it, but you know that this is somehow BS that will, That's right. and so you go to Google in
+order to understand, to go to see on Google, on Google Maps. What are the reviews? Mm-hmm. to see the website, obviously
+you, to search the, the website to see the reviews of maybe
+magazine about restaurants in Rome. And so that's, and then maybe you return
+to Instagram or you go to TikTok in order to see if people, what people
+comment commented or if other people share things that are not very official. Real Yeah. promoting the roof, the Yeah. on, on the roof. This is the messy middle. So we that's why we should as
+Rand, promoted, Rand Fishkin, promoted very well, but it
+wasn't this original definition. We do must do SEO as a search
+everywhere optimization Yes, be visible everywhere. yes. You know, you reminded me of video because
+in SaaS video is very underutilized and it's most B2B SaaS, they very
+heavy on written content still. And I just thought about
+my own conversion journey. I bought a, I drink a lot of
+coffee, as you might expect, you know, Italians we love coffee. And I bought an automatic
+espresso machine. And I started my search on YouTube
+for this, and I felt that you know, I, I did also check Google for like
+best automatic cappuccino machines, but I felt that all these affiliate
+sites were fluffy and just trying to make money from the affiliate links. So I actually used YouTube to see the
+product demonstration where somebody was making cappuccinos and macchiatos live
+and showing the details of the machine. And then from there I decided
+which one I wanted to buy. I went to Google and I converted,
+and I bought the cappuccino machine that way, but I did not click
+the link, the affiliate link from YouTube to the checkout page. So they will never know that YouTube is
+the reason why I bought that machine. So there's the messy middle,
+dark funnel in real life. Yeah. Yeah. Yes totally. Totally. And I think that. But this thing of a video, so to come
+to an actor, to, not really from SaaS, it was a website that was an editorial
+website about everything, the Microsoft world and speaking to developers. And it was the classic website,
+which was explaining things with a strong, strong text based content. And actually discovered that video were
+the best thing especially when it comes, all the things related to helpful content. Update all the core updates. You know, the end of summer 2023 , that
+this side started to shrink see, I mean, for no clear reason to lose traffic. but we saw that the YouTuber channel
+was still working very well, and the YouTube channel was essentially
+one person doing the videos. So the, the main, journalist
+of a company doing the videos. So we started to do something like not
+only embedding the video from YouTube to, to the website, but repurposing
+the video as a form of shorts and very, or creating other formats. It was a pain because the resources
+weren't, weren't so big, it wasn't a big publisher, but it, It was working well. So yes, video is, and now even
+more, if we think about AI mode. or Gemini in general, maybe because
+it's Google, we know that, videos and YouTube in particular are very
+important because they immediately transcribe the, the speech. And so it's everything
+parsed and optimized for part of the video as answers. And in fact, in a mode, especially
+in AI mode is now with Gemini three deep search pumping AI mode, the
+presence of video is going to boost. 1000%. I've even seen so many of them in
+the AI overviews, in the SERPs themselves. I mean, that's the biggest, you know,
+foreshadowing clue you can have. Right? So, you know, I would love to get
+more of my clients in investing into video, but the logistical
+aspects of it turn them off. And so, you know, sometimes I present
+what I've done with other clients in the past that's been successful. Like, you can have somebody with
+a bunch of scripts that you block up studio for the day and then you
+just make as many videos as you can. I, I found that to be effective. But in general, I think it is tough to
+switch the conversation with clients on how do you get out of the written
+content hamster reel and you know, more into the video and multimedia mindset. But I think that in SaaS it could
+be, I mean, there's always the, the quality must always be very good. But I think that an area, and I,
+this is also a question because it's something that always drove me crazy. Why in the SaaS world. All the most interesting content is in a
+developer subdomain, support subdomain. Why? Because I mean, when I work with
+a SaaS, I usually say you already have all your content as, as when
+you work with a B2B, usually the the best content is see in a, in a PDF. And so you, you, you don't
+need to create new content. You, you just need to repurpose
+the content you having in this sub domain to create to have a
+product led SEO type of content that you need. So do, do you ever discovered why SaaS
+love this subdomain for everything. Yes yes. I, I, I've seen this over and
+over and over and over and over again for so many years. The answers are always the same. The, the first reason that they want to
+do it is because they want to gate the content behind a form, and they want
+to collect the contact information. Of the people who want to consume that
+content and then they want to, you know, remarket to them, they want to
+send 'em emails and stuff like that. it's the classic, classic
+enterprise B2B motion. And depending on how enterprise they
+are, I've even seen paid search campaigns that they don't send the traffic to
+like a product demo request form. They send it to a research guide
+that's locked, and so you have to you know, fill out the forms to ungate it. So they, they do the classic inbound marketing as aspect, 1000%. 1000%. But it's
+a cultural problem too. They, for a lot of like classic,
+sort of traditional B2B like marketers, like especially product
+marketers, they just default to PDFs. That's just the culture
+that they were raised in. They love it. I, I, I don't know why. But a lot of the work that I do is
+actually taking the PDF content and working to ungate it and make it, you
+know, SEO led ungated HTML content. Right. So there's a lot of repurposing
+that can be done, but back to your point, it's, it's a cultural thing. And then they want to do the
+classic inbound marketing motion. Or at least if you really want to have
+your PDF index, remember to put the UTM campaign parameters and links to
+your website because if not, every browser is so easy to just search,
+find the PDF open, having opened directly the browser and downloaded. And that is what is
+happening actually with LLMs. So I've been showing clients,
+Hey, you know, your, that LLMs are finding your gated PDFs and sending
+them out for free, that that is actually happening quite a lot. So, yeah, I don't know. I think gated content will eventually die. You have, you have to have
+something really compelling. Now it has to be like a great,
+unique report with amazing data or something for B2B to like complete
+a forum and, and engage with it. I just don't think that that
+method works well anymore. And talking about the elephant in the
+room, because we were talking about ch pt, but probably in the long run. In the long term, the, the
+winner is going to be Google. I mean, it has the muscle
+to resist and to spend. What must be spent for doing good
+AI in search and it's not depending on investors in somehow, so they
+also build their own processor. We will Terra Floop and so they
+don't even depend from Nvidia. so let's talk about exactly. We are SEOs substantially even, even
+if we want to call different names. But we substantially most of the time the
+traffic is still is more from Google and Google is having AI overview and now is,
+is pushing a lot, very much a lot AI mode. Now with emini free, Amos start
+to seem something that is going to be useful and usable mostly. So what is your think. Thinking because you, I know you a fan
+a blog post and really long blog, blog post that I wrote about how it could
+be, AI mode transferred from being just AI mode to default search surface. I think that my mistake in that post
+was still thinking in the old ways of how to transform the features we see
+and didn't think that models evolved so fastly that now we can see Gemini
+creating charts in real time with just a question, just asking them. how do you think, or do you think
+that Google will really abandon even if classic search or not? I have to believe someday. Yes. How far away are we? Who knows? You know, at least it's a few years
+away still because I think there's a lot more kinks that they need to work out. But you know, I've been wondering
+about this for a long time, and actually I wanted to ask you, 'cause
+I knew I was talking to you today. If they do roll out AI mode as the
+default, the thing that they lose is their moat on engagement data from CTR,
+because that is one signal for, for ranking, traditional ranking is you know,
+if, if there's a lot of popo sticking, we're going back into the results or. The searcher ended their
+journey here on this result. That's usually a sign that this
+is a positive answer and that they like this page because it
+concluded their search journey. So that is the thing that I wonder,
+what are the things Google will do to make up for the lost engagement
+tracking that they get from CTR? Because there is going to be no more
+CTR or probably very, very, very little. Will it be links? Will it be topical authority? Will it be some combination of overall
+brand association with an entity? Like what is your take on that? I mean, first remember that
+it's me inviting you to talk. Okay? That is it's not an interview to me,
+but, continue with the conversation. What I think, I sincerely
+think that I change slightly. My idea with respect. One, I wrote that very long
+blog post, and the reason is the appearance of Google Web Guide. I think that it's more
+probable, that two things. So one characteristic of Google
+with respect ai and especially in the case of Gemini, is this, we see
+the specialization of the models. We see Gemini in general. Now we have Gemini free. but then we have very specific Geminis
+between bracket, for legal, one for for else, one for specific model. But sometimes when generating answer
+are even called by the General Gemini. In order to give a more precise
+and less hallucinated answer, this attitude that is similar to the classic
+behavior or Google of really segmenting for the classic filter in the menu. So we have image, we have video, we
+have shorts, even shorter is not put into close in the same bucket of video. have news and blah, blah,
+flights, et cetera, et cetera. then we have web. So what I think is that we will still
+have web as it is now, not web web guide, but the feature that Google is testing
+as web guide probably are going to be moved on the classic all search filter. This, these plus things that
+from deep AI mode eventually be pushed inside AI overview. So combining a sort of hybrid of the two. Why? Because web guide is still offering
+all this even a bigger list of URLs because they are not the classic 10,
+they can be put 95 search results in one long page with no PAing issue. that is going to be more difficult for SEO
+because if you're not in that unique page, you are not, you're invisible there are
+out of, if you use web guide and you go to the end of a page of web guide, you can
+see Google and say, I analyze 120 sources. I selected 86. So, 86 outta 120. already big selection, but that 120 is
+a selection of millions of documents. So if you are in the 121, you
+have not even been considerate You missed out. Yeah, search. that's right. And what is cool is that web
+guide Google is presenting is a pillar page substantially so Yeah. So it's giving you dive into the
+topic that you're searching so you can eventually go directly to the
+part that you are interested about. And then it's, the meta description
+is our meta description do not exist. Yeah that's a, the meta description that we
+started to see in search, normal search that are created by Gemini
+and they are thing telling to you why these search results is relevant. So for me that, can increase,
+even increase with CTR yeah. In some cases not. And this happens, interesting,
+especially with forum, Google is maybe surfacing a Reddit thread Hmm. because it's relevant,
+maybe the thread is. 2014. So this thread can be
+relevant because says this this this, but please be aware Old. old. It's 10 years old, Yeah, yeah. I don't care. It's already this Right, ranting against Google. right. And so I think that that kind of
+search results page is going to be the one going to be the default. With AI overview, all the
+things that I was saying. Okay, maybe in AI mode, the
+people also ask can be follow up question, we already seeing it Oh yeah. because now almost all the
+people also ask our AI overview. That's right. anymore of the classic snippet. The classic search Yeah. Yeah. and AI mode will be another thing
+maybe still very pushed from search. In order to make a deep research on AI
+mode, but not really for, for search. Yeah. Yeah. This is super cool, man. You know, I, I agree. I, I, as you were talking, you made me
+think about mobile as well, because I actually love the chat GPT mobile app. So I, I do, I do wonder if over time
+Google user behaviors will change where, say for mobile, instead of going to
+Google dot com on your mobile device or even the Google app, you'll just start
+using like the Gemini app or the AI mode app if they developed that or something. Because I, I do think that the AI
+mode style is very good for mobile. I find it just easier,
+quicker, more convenient. But on desktop, I kind of do
+like the blended experience. Or if I need to go up and down
+and go deep, I can do that. But if I decide to use the AI
+mode I can do that as well. I like the optionality, so maybe
+that's the way it will unfold. We'll have to see. Well, and if you connect, if we connect
+this bit of our conversation to the one in the beginning, talking about people maybe
+start on Chat GPT and then go to Google. The fact to have AI mode separated from
+the main search is a catchall because people can start on Google search,
+then go deeper with a mode and very return to Google without needing to
+leave and open a new app application, and then talking about mobile. Let's see now that Gini is going to fool. Finally, theory is going to
+be somehow killed by Apple and reinvented with Gemini. So we are going to have Gemini
+as default Android and iPhone. Very exciting. the mobile ecosystem
+is going to be Google. And I mean, maybe you, they
+can even try to, okay, you must choose system you want to use. But I mean, it's not, really so simple
+because I mean, you cannot ask to Apple to to ask to their user which system,
+which intelligence do you want to use? I mean, I have, this is still
+Siri, even if it's full by Gemini, but it's sir not who So, talking about, What is one
+thing that you were saying? Sometimes I'm not really
+agreeing with you. You're saying your talk, obviously
+you are talking from your perspective and as a specialist in, in the SaaS
+work, so you're saying we should stop creating top of a funnel content. I can agree on a certain grade, but you
+know, but because we have discussed, on, on social media and I think it was
+X, or Linkedin, I don't remember, but actually owning the space of a top of a
+funnel space is still valuable for EEAT. So maybe it's not and I want
+to know your opinion here. It's not really about losing
+ourself in semantical discussion about informational content is not
+useful anymore or is useful, but what kind of informational content? Maybe for Saas it should be
+product led informational content. Not talking about, let's say you are an
+application about weather and not talking about how to calculate, how whether
+is calculated through very complicated mathematical algorithm, more about the
+product, how it works, what it's using. So talking to the informational
+content for the right person, not for the universe. Yeah. Yeah. So I'll tell you my beef,
+Gianluca with informational content for SAS specifically. So much of it historically has
+been that generic fluff where it is so far away and so disconnected
+from the product storyline. So to your point on, maybe it should be
+product led, yes, it absolutely should have ways throughout the storyline of the
+content where the product gets injected, and you can explain how to do something
+with the product throughout the content. So my, my beef has been like that
+very generic style fluff where you cannot even connect the dots to
+the product storyline at all, or very, very, very small amount of it. And then my other beef with it too
+is that I, I feel that will Reynolds had a great post on this too, is that
+if you are just doing informational content to drive search traffic. But you don't have the pride in that
+content to where you will promote it on social with your profile attached
+to it, and you put your name behind it, you stand by it and you're proud of it. If you're not doing that, then
+it's likely just generic fluff. So, so that is my beef is, is that
+there's not enough personality there's not enough unique insight and it takes
+away from the value of the content. So I totally agree with this. I mean, it's also
+something that I say why? Why you should have to put in
+your editorial calendar to write. Again, another what to do
+in Valencia or in Miami, It makes no sense. I mean, and this is maybe where
+thinking to all the people working in the publishing in niche where,
+where they should try to focus. It's hard because it's, it's not
+easy, but we've rediscovering investigative journalism, rediscovering
+data informed journalism because that is the kind of content that
+for instance AI cannot take that. That's right. and eventually is the kind of content
+that even if it's using the AI is using mention, is going to site it. But, now I'm gonna try to explain myself. I was investigating a couple of days
+ago a behavior that, a test that is happening on Google of AI overview. I think that you saw it too. Sometimes Google is presenting the
+classic blue link inside an AI overview. And I was wondering why it's doing that. So that is because Google probably
+is considering brand name as a destination and not as I mentioned. maybe becoming that destination is the
+purpose, one of the purpose for an SEO to work all the strategy and practice. But then I started to
+investigate another thing. Why, for instance, when we are going
+to AI mode or AI value and we click to. mention in the column, source. Sometimes you see that, Google
+is highlighting the chunk that it use the answer and sometimes not. And when I discover that chunk
+that usually the, the part that is highlighted many times is copied
+verbatim, so as it is into the answer. So that means that you are the perfect
+source for that kind of answer. So maybe V is also way to eventually
+combine it with the other one, which is hopefully the way that Google will
+deal with link at real attribution, link inside AI overview and a mode
+instead of a classic column, the stupid minuscule icon of a link. And Maybe ai, the fact that so many
+websites are losing traffic because of AI should be considered, not like
+stealing traffic, but self-conscious understanding that we had the life easier. We need to restart doing things as
+when Paper News Magazine were assisting because nobody was going to buy a National
+Geographic magazine it was filled with fluff, even if it was a proposing. The classic what to do in Valencia
+with your family, you know, that a journalist really knew what to do because he experienced what
+to do in Valencia because we photograph the photography, were
+not stock photography and so on. So this is harder. Take a long time, you know that Google
+is probably going to scrape it  Chat GPT, even more, and maybe you're not going
+to have the traffic anyway, but will be able to make you stand out B, the source. I love it, man. Yeah, I think, I think what
+you are reminding me of is consensus versus information game. So you, you need to have some level
+of consensus, otherwise you probably won't rank, but you need to have
+the information game to stand out. So you need to strike that fine balance. I think what you said about
+what to do in Valencia is great. Like you probably need to have some of
+the things that people would expect, but then if you are the local guru
+of Valencia, you know, all these cool things, then I would definitely
+trust you more then some random guy. Well, one hour. One hour. It's eh, eh, eh. So now let's stop talking about ai. Let's stop talking about SEO. I mean, I'm opening wide a little bit. Your camera, and as you can see, if
+you're watching this on YouTube, there is a wonderful electric guitar behind. curious, what is your relation with music? Is your passion, is your a way
+to ress yourself what it is? What is the relation with music
+and the use of that guitar ?
+Yeah, you know, I used to be in the
+music business before SEO and I, I'm not in the music business anymore, but
+I still love it and I like to jam out. I like to shred. And it's a great way for me to
+de-stress and take my mind off of like, work and SEO and ai. I can just put my phone down and jam out
+to my favorite songs, or just play some, some rhythms and play some solos on top. It's like one of the biggest
+things I do for stress relief. So I, I just love to play. I'm a musician at heart and I've
+been playing since I was a kid. So this is, this is one
+of my favorite things. Cool. Cool. And I have, you know, the classic
+question, but maybe silly, maybe. No. Maybe it's can be interesting
+for understanding someone better. But you were born in, in New York, I
+mean, I'm a European, so when I think of American Italian in New York, I
+just think about all the mythology created by Martin Scorsese and Robert
+DeNiro Pac, all this kind of, I know that it, it, it is not really. So, but the question is, what
+made you move to go to Miami? Because Miami is,
+talking with stereotypes. You start to think Cuban salsa,
+Latin, the connection with Latin America, and the states and so on. So somehow Italian, American,
+Italian looks, seems a little bit outta place in the stereo, in the
+classic stereotypical vision a European may have of United States. Yeah, it's a great one. Well, I actually left New York because I
+wanted to step outside of my comfort zone. I, everything became so predictable. You know, I, I love my
+family to death, of course. And you know how Italians are with family. It's like we're inseparable, but I felt it
+was time to step outside my comfort zone. Go do something different. And one of the big factors too
+was that I hate the cold weather. I absolutely hate it. So I thought, what is a place that is
+not so far from home where if I want to take a quick flight, I can do that, but
+also be in a warm environment year round. Where can I go where I can wear
+shorts and a t-shirt every day? And, and Miami obviously was like
+top of the list and of course let's not forget the tax benefits as well. 'cause they charge you way less here
+than they charge you in New York. So I said, you know what, this seems like
+it has all the right components to it. And my, my younger brother, Antonio,
+wanted to also move at the same time. And so we, we decided to do it together. And so because I had somebody to go with
+it just made all the sense in the world. This was in 2017, so like way before
+all the COVID stuff happened and it was it was a great time to do it and
+I, I never looked back and I, I've had a great life down here so you, you
+can make of it what you want depending on, you know, your lifestyle choices. Me, I'm like a outdoorsy kind of guy. I like to play tennis, so I'm
+doing that like every week and I like to cycle as well. Things you can't do in New York
+so easily around the clock. So, that, that's really
+why I did it, honestly. Okay. Thank you. you. Thank you, Gaetano. It was really a nice
+conversation, this one. And I hope to, to have vacation, to have
+a, a new conversation maybe in the future. Absolutely. Thank you Gianluca
+again, this was awesome. I really enjoyed talking to you,
+hearing your perspective as well. And we'll have to do this again
+sometime as AI evolves and we'll see where things end up. Thank you. Thank you very much, and also
+thank you to all of you who have listened this conversation and
+or watched this conversation. Remember, ring on the bell, subscribe and
+help us, this little  podcast to grow. Thank you. Bye bye.
