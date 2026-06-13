@@ -1,7 +1,7 @@
 # YouTube Content Strategy for B2B SaaS — Research Project
 
 ## Topic
-YouTube Content Strategy for B2B SaaS (with AI-powered production angle)
+YouTube Content Strategy for B2B SaaS
 
 ## Why I Chose This Topic
 My background is in YouTube content production for a business and finance media channel — which means I've spent significant time understanding how the algorithm works, how to optimize for search, and what makes a video actually get found versus get buried. That hands-on experience made this topic feel immediately legible to me: the mechanics of YouTube SEO that B2B SaaS companies rely on aren't fundamentally different from what any serious YouTube channel has to master.
