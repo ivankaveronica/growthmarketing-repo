@@ -40,7 +40,7 @@ Applying this playbook outside those boundaries is the most likely way to waste 
 
 ## Section 1: Operating Principles
 
-These four principles govern every decision downstream. Teams that get the tactics right and these principles wrong will not generate pipeline.
+These five principles govern every decision downstream. Teams that get the tactics right and these principles wrong will not generate pipeline.
 
 ### 1.1 Measure precision, not volume
 
@@ -294,7 +294,7 @@ Two further rules that differ from consumer best practice:
 
 **Format: YouTube-first, 10–20 minutes.** Decide title and packaging before recording, script the video, and expect to land at 10–20 minutes (source: Samu Kovacs, https://theb2bplaybook.com/b2b-youtube-strategy, 24.05.2026).
 
-**Repurposing ratio: one long-form video should generate 5–8 derivative assets** across LinkedIn, email, Shorts, and blog (source: SyncGTM, https://syncgtm.com/blog/how-to-write-b2b-sales-content-youtube, 18.04.2026). This is what makes the cadence sustainable — the team produces four recordings, not four separate content efforts.
+**Repurposing ratio: one long-form video should generate 5–8 derivative assets** across LinkedIn, email, Shorts, and blog (source: SyncGTM, https://syncgtm.com/blog/how-to-write-b2b-sales-content-youtube, 18.04.2026). This applies the 'create once, distribute forever' principle Ross Simmonds built his agency practice around (source: Ross Simmonds, https://www.youtube.com/watch?v=ofe-byzwvpo, transcript at /research/youtube-transcripts/ross-simmonds/). This is what makes the cadence sustainable — the team produces four recordings, not four separate content efforts.
 
 #### The pre-call video sequence
 

@@ -11,7 +11,7 @@ YouTube Content Strategy for B2B SaaS
 
 | # | Name | Role | Links |
 |---|------|------|-------|
-| 1 | Sam Oh | Director of Marketing, Ahrefs | [YouTube](https://youtube.com/@Ahrefs) · [LinkedIn](https://linkedin.com/in/samoh) |
+| 1 | Sam Oh | VP of Marketing, Ahrefs | [YouTube](https://youtube.com/@Ahrefs) · [LinkedIn](https://linkedin.com/in/samoh) |
 | 2 | Ross Simmonds | Founder, Foundation Marketing + Distribution.ai | [YouTube](https://youtube.com/@RossSimmonds) · [Website](https://rosssimmonds.com) |
 | 3 | Adam Robinson | CEO, RB2B & Retention.com | [LinkedIn](https://linkedin.com/in/retentionadam) · [YouTube](https://youtube.com/@AdamRobinsonRB2B) |
 | 4 | Samu Kovacs | Founder, KS Media | [YouTube](https://youtube.com/@SamuKovacs) · [Website](https://ks-media.co) |
