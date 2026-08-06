@@ -26,7 +26,7 @@ The ACV threshold is not decorative — it is what makes the economics work. The
 
 **This playbook is not designed for:**
 
-- **Pre-product-market-fit startups** that need market feedback within days rather than months. YouTube is a slow channel, and investing scarce early-stage time into slow-growth channels carries real risk — six months building a channel only to discover the leads do not convert is six months lost (source: Early Traction, https://earlytraction.substack.com/p/b2b-saas-marketing-mistake-2-using-slow-marketing-tactics).
+- **Pre-product-market-fit startups** that need market feedback within days rather than months. YouTube is a slow channel, and investing scarce early-stage time into slow-growth channels carries real risk — six months building a channel only to discover the leads do not convert is six months lost.
 - **Low-ticket, self-serve products** where the unit economics cannot support the production investment.
 - **Genuine category creation**, where no search demand yet exists. See Disagreement 3 in Part Two for the alternative approach that applies in that case.
 
